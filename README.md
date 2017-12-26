@@ -25,5 +25,7 @@ Finally, the fused image will be reconstructed by combine the fused base part an
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
 
+## Experimental Setting
 
+We use MatConvNet and VGG-19 to extract multi-layers strategy.
 
