@@ -2,9 +2,9 @@
 Will be submitted to ICPR2018
 
 
-![](https://github.com/exceptionLi/imagefusion_deeplearning_framework/blob/master/framework/framework_method.png)
-![](https://github.com/exceptionLi/imagefusion_deeplearning_framework/blob/master/framework/fusion_strategy.png)
-![](https://github.com/exceptionLi/imagefusion_deeplearning_framework/blob/master/framework/fusion_detail.png)
+![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
+![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
+![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_detail.png)
 
 
 ## Abstract
