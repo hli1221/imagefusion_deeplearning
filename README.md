@@ -1,10 +1,14 @@
 # Infrared and Visible Image Fusion using Deep Learning Framework
 Will be submitted to ICPR2018
 
-
+### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
-![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
+
+### Fusion detail parts
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_detail.png)
+
+### Multi-layers fusion strategy
+![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
 
 
 ## Abstract
