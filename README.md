@@ -22,10 +22,9 @@ After we get these initial fused detail parts, the choose-max strategy is used t
 
 Finally, the fused image will be reconstructed by combine the fused base part and detail part. 
 
-If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
-
 
 ## Experimental Setting
 
 We use MatConvNet and VGG-19 to extract multi-layers strategy.
 
+If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
