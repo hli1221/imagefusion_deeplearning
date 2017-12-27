@@ -25,6 +25,6 @@ Finally, the fused image will be reconstructed by combine the fused base part an
 
 ## Experimental Setting
 
-We use MatConvNet and VGG-19(https://pan.baidu.com/s/1eSgxtyM) to extract multi-layers strategy.
+We use MatConvNet and [VGG-19](https://pan.baidu.com/s/1eSgxtyM) to extract multi-layers strategy.
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
