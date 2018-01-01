@@ -28,3 +28,16 @@ Finally, the fused image will be reconstructed by combine the fused base part an
 We use MatConvNet and [VGG-19](https://pan.baidu.com/s/1eSgxtyM) to extract multi-layers strategy.
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
+
+
+# Citation
+```
+@misc{li2018IVimagefusion_deeplearning,
+    author = {Hui Li},
+    title = {CODE: Infrared and Visible Image Fusion using Deep Learning Framework},
+    year = {2017},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/exceptionLi/imagefusion_deeplearning}}
+  }
+```
