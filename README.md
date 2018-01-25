@@ -11,7 +11,7 @@ Our paper will be submitted to ICPR2018.
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
 
 ### Quality metric - Nabf
-'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based on Pixel Significance using Discrete Cosine Harmonic Wavelet Transform. Signal, Image and Video Processing, 2012.'
+Nabf - 'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based on Pixel Significance using Discrete Cosine Harmonic Wavelet Transform. Signal, Image and Video Processing, 2012.'
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/Nabf.png)
 
 ## Abstract
