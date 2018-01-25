@@ -10,6 +10,8 @@ Our paper will be submitted to ICPR2018.
 ### Multi-layers fusion strategy
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
 
+### Quality metric - Nabf
+![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/Nabf.png)
 
 ## Abstract
 In recent years, deep learning has become a very active research tool which is used in many image processing fields. 
