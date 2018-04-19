@@ -4,7 +4,7 @@ ICPR 2018(Accepted).
 ### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
 
-### Fusion detail parts
+### Fusion detail content
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_detail.png)
 
 ### Multi-layers fusion strategy
