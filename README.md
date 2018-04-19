@@ -1,5 +1,5 @@
 # Infrared and Visible Image Fusion using a Deep Learning Framework
-ICPR2018(Accepted).
+ICPR 2018(Accepted).
 
 ### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
