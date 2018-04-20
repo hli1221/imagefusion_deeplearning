@@ -1,5 +1,5 @@
 # Infrared and Visible Image Fusion using a Deep Learning Framework
-ICPR 2018(Accepted).
+[International Conference of Pattern Recognition 2018(Accepted)](https://arxiv.org/abs/1804.06992).
 
 ### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
