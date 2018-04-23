@@ -14,7 +14,12 @@
 Nabf - 'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based on Pixel Significance using Discrete Cosine Harmonic Wavelet Transform. Signal, Image and Video Processing, 2012.'
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/Nabf.png)
 
-## Experimental Setting
+### Requirements
+You will need the following to run the above:
+- MatConvNet
+- [VGG-19](https://pan.baidu.com/s/1eSgxtyM)
+
+### Experimental Setting
 
 We use MatConvNet and [VGG-19](https://pan.baidu.com/s/1eSgxtyM) to extract multi-layers strategy.
 
