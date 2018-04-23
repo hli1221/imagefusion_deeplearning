@@ -34,3 +34,5 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
     howpublished = {\url{https://github.com/exceptionLi/imagefusion_deeplearning}}
   }
 ```
+
+Hui Li, Xiao-Jun Wu, Josef Kittler. Infrared and Visible Image Fusion using a Deep Learning Framework. arXiv:1804.06992 [cs], Apr 2018. 
