@@ -19,9 +19,6 @@ You will need the following to run the above:
 - MatConvNet
 - [VGG-19](https://pan.baidu.com/s/1eSgxtyM)
 
-### Experimental Setting
-
-We use MatConvNet and [VGG-19](https://pan.baidu.com/s/1eSgxtyM) to extract multi-layers strategy.
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
