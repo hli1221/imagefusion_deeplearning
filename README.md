@@ -1,5 +1,7 @@
 # Infrared and Visible Image Fusion using a Deep Learning Framework
-[International Conference of Pattern Recognition 2018(Accepted)](https://arxiv.org/abs/1804.06992).
+International Conference of Pattern Recognition 2018(Accepted)
+
+[Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[J]. arXiv preprint arXiv:1804.06992, 2018.](https://arxiv.org/abs/1804.06992).
 
 ### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
@@ -34,5 +36,3 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
     howpublished = {\url{https://github.com/exceptionLi/imagefusion_deeplearning}}
   }
 ```
-
-Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[J]. arXiv preprint arXiv:1804.06992, 2018.
