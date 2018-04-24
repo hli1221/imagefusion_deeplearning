@@ -35,4 +35,4 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
   }
 ```
 
-Hui Li, Xiao-Jun Wu, Josef Kittler. Infrared and Visible Image Fusion using a Deep Learning Framework. arXiv:1804.06992 [cs], Apr 2018. 
+Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[J]. arXiv preprint arXiv:1804.06992, 2018.
