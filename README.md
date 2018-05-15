@@ -18,7 +18,7 @@ Nabf - 'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based 
 
 ### Requirements
 You will need the following to run the above:
-- MatConvNet
+- [MatConvNet](http://www.vlfeat.org/matconvnet/)
 - [VGG-19](https://pan.baidu.com/s/1eSgxtyM)
 
 
