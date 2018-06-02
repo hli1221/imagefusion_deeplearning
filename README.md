@@ -1,5 +1,7 @@
 # Infrared and Visible Image Fusion using a Deep Learning Framework
-[International Conference of Pattern Recognition 2018(Accepted)](https://arxiv.org/abs/1804.06992).
+International Conference of Pattern Recognition 2018(Accepted)
+
+Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[J]. arXiv preprint arXiv:1804.06992, 2018.(https://arxiv.org/abs/1804.06992)
 
 ### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
@@ -14,9 +16,11 @@
 Nabf - 'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based on Pixel Significance using Discrete Cosine Harmonic Wavelet Transform. Signal, Image and Video Processing, 2012.'
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/Nabf.png)
 
-## Experimental Setting
+### Requirements
+You will need the following to run the above:
+- [MatConvNet](http://www.vlfeat.org/matconvnet/)
+- [VGG-19](https://pan.baidu.com/s/1eSgxtyM)
 
-We use MatConvNet and [VGG-19](https://pan.baidu.com/s/1eSgxtyM) to extract multi-layers strategy.
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
