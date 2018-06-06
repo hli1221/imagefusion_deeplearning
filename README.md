@@ -17,7 +17,7 @@ Nabf - 'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based 
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/Nabf.png)
 
 ### Requirements
-You will need the following to run the above:
+You will need the following tools to run this codes:
 - [MatConvNet](http://www.vlfeat.org/matconvnet/)
 - [VGG-19](https://pan.baidu.com/s/1eSgxtyM)
 
