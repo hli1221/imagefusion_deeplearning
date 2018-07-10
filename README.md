@@ -28,6 +28,7 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
 # Citation
 
 For paper:
+
 Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[J]. arXiv preprint arXiv:1804.06992, 2018.
 
 For code:
