@@ -4,6 +4,7 @@ International Conference of Pattern Recognition 2018(Accepted)
 Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[J]. arXiv preprint arXiv:1804.06992, 2018.(https://arxiv.org/abs/1804.06992)
 
 For Pytorch version:
+
 https://github.com/GrimReaperSam/imagefusion_pytorch
 
 ### Fusion method
