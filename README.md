@@ -26,6 +26,9 @@ You will need the following tools to run this codes:
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
 ### For Pytorch version
+
+For reference only
+
 https://github.com/GrimReaperSam/imagefusion_pytorch
 
 # Citation
