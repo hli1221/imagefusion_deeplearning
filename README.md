@@ -7,17 +7,17 @@ International Conference of Pattern Recognition 2018(Accepted)
 - [ArXiv](https://arxiv.org/abs/1804.06992)
 
 ### Fusion method
-![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
+![](https://github.com/hli1221/imagefusion_deeplearning/blob/master/framework/framework_method.png)
 
 ### Fusion detail content
-![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_detail.png)
+![](https://github.com/hli1221/imagefusion_deeplearning/blob/master/framework/fusion_detail.png)
 
 ### Multi-layers fusion strategy
-![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
+![](https://github.com/hli1221/imagefusion_deeplearning/blob/master/framework/fusion_strategy.png)
 
 ### Quality metric - Nabf
 Nabf - 'B. K. Shreyamsha Kumar. Multifocus and Multispectral Image Fusion based on Pixel Significance using Discrete Cosine Harmonic Wavelet Transform. Signal, Image and Video Processing, 2012.'
-![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/Nabf.png)
+![](https://github.com/hli1221/imagefusion_deeplearning/blob/master/framework/Nabf.png)
 
 ### Requirements
 You will need the following tools to run this codes:
@@ -47,6 +47,6 @@ For code:
     year = {2017},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/exceptionLi/imagefusion_deeplearning}}
+    howpublished = {\url{https://github.com/hli1221/imagefusion_deeplearning}}
   }
 ```
