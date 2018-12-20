@@ -3,9 +3,7 @@ International Conference of Pattern Recognition 2018(Accepted)
 
 Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[C]//Pattern Recognition (ICPR), 2018 24rd International Conference on. IEEE, 2018: 2705 - 2710.
 
-IEEE Xplore: https://ieeexplore.ieee.org/document/8546006
-
-ArXiv: https://arxiv.org/abs/1804.06992
+[IEEEXplore](https://ieeexplore.ieee.org/document/8546006) , [ArXiv](https://arxiv.org/abs/1804.06992)
 
 ### Fusion method
 ![](https://github.com/exceptionLi/imagefusion_deeplearning/blob/master/framework/framework_method.png)
