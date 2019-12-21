@@ -48,8 +48,6 @@ For code:
     author = {Hui Li},
     title = {CODE: Infrared and Visible Image Fusion using a Deep Learning Framework},
     year = {2017},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/hli1221/imagefusion_deeplearning}}
+    note = {\url{https://github.com/hli1221/imagefusion_deeplearning}}
   }
 ```
