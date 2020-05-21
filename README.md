@@ -38,16 +38,15 @@ https://github.com/GrimReaperSam/imagefusion_pytorch
 
 # Citation
 
-For paper:
-
 *Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[C]//Pattern Recognition (ICPR), 2018 24rd International Conference on. IEEE, 2018: 2705 - 2710.*
 
-For code:
 ```
-@misc{li2018IVimagefusion_deeplearning,
-    author = {Hui Li},
-    title = {CODE: Infrared and Visible Image Fusion using a Deep Learning Framework},
-    year = {2017},
-    note = {\url{https://github.com/hli1221/imagefusion_deeplearning}}
-  }
+@inproceedings{li2018infrared,
+  title={Infrared and Visible Image Fusion using a Deep Learning Framework},
+  author={Li, Hui and Wu, Xiao-Jun and Kittler, Josef},
+  booktitle={2018 24th International Conference on Pattern Recognition (ICPR)},
+  pages={2705--2710},
+  year={2018},
+  organization={IEEE}
+}
 ```
