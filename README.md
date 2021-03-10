@@ -1,4 +1,6 @@
 # Infrared and Visible Image Fusion using a Deep Learning Framework
+
+[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*, Josef Kittler  
 International Conference of Pattern Recognition 2018
 
 *Li H, Wu X J, Kittler J. Infrared and Visible Image Fusion using a Deep Learning Framework[C]//Pattern Recognition (ICPR), 2018 24rd International Conference on. IEEE, 2018: 2705 - 2710.*
