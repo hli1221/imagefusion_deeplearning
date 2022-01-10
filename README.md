@@ -15,7 +15,7 @@ You will need the following tools to run this codes:
 - [VGG-19, imagenet-vgg-verydeep-19](http://www.vlfeat.org/matconvnet/pretrained/)
 
 
-If you have any question about this code, feel free to reach me(hui_li_jnu@163.com, lihui@stu.jiangnan.edu.cn) 
+If you have any question about this code, feel free to reach me(hui_li_jnu@163.com, lihui.cv@jiangnan.edu.cn) 
 
 
 ### Fusion method
